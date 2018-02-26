@@ -56,7 +56,7 @@ nav ul {
 	width: 40%;
 	display: flex;
 	justify-content: space-between;
-	margin-top: -44px;
+	margin-top: -43px;
 }
 
 nav li {
@@ -76,8 +76,7 @@ h3 {
 
 h4 {
 	color: silver;
-	font-size: 12.2px;
-	font-family: "Century Gothic", sans-serif;
+	font-size: 11.2px;
 	margin-top: 7px;
 }
 

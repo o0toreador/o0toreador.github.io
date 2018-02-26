@@ -1,0 +1,124 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: "Work Sans", sans-serif;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+h4,
+nav ul a {
+	font-size: 0.7rem;
+	font-weight: bold;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+a.button {
+	font-size: 0.8rem;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    border-radius: 3px;
+	padding: 8px 30px;
+}
+
+p {
+	font-size: 0.9rem;
+	letter-spacing: 1.5px;
+	line-height: 1.6;
+}
+
+li {
+	list-style-type: none;
+}
+
+nav {
+	padding: 50px 150px;
+	width: 100%;
+}
+
+nav h1 {
+	font-size: 2.35rem;
+    display: inline-block;
+    font-family: "Century Gothic", sans-serif;
+}
+
+nav ul {
+	float: right;
+	width: 40%;
+	display: flex;
+	justify-content: space-between;
+	margin-top: -44px;
+}
+
+nav li {
+	text-align: center;
+}
+
+h2 {
+	font-size: 22px;
+	font-weight: normal;
+	font-family: "Century Gothic", sans-serif;
+	margin-left: 3px;
+}
+
+h3 {
+	font-size: 20px;
+}
+
+h4 {
+	color: silver;
+	font-size: 12.2px;
+	font-family: "Century Gothic", sans-serif;
+	margin-top: 7px;
+}
+
+.section,
+.project {
+	margin: 50px 150px;
+}
+
+h2,
+.square,
+.image,
+.video,
+.project-text {
+	display: inline-block;
+}
+
+.section {
+	padding-bottom: -40px;
+}
+
+.project {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.project-text {
+	width: 45%;
+}
+
+.five {
+	padding-bottom: 10px;
+}
+
+footer {
+	padding: 30px 20px;
+	clear: both;
+	text-align: center;
+}
+
+footer .footer-text {
+	color: dimgray;
+	padding-top: 5px;
+}

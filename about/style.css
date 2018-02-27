@@ -118,6 +118,10 @@ footer .footer-text {
 	width: 45%;
 }
 
+.header-text a:hover {
+	color: darkgray;
+}
+
 .resume {
 	margin-left: 75px;
 }

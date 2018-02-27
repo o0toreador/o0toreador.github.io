@@ -21,6 +21,10 @@ ul a {
 	text-transform: uppercase;
 }
 
+ul a:hover {
+	color: lightgray;
+}
+
 p {
 	font-size: 0.9rem;
 	letter-spacing: 1.5px;
@@ -106,6 +110,11 @@ footer {
 	padding: 30px 20px;
 	clear: both;
 	text-align: center;
+}
+
+footer a:hover {
+	opacity: 0.3;
+	filter: alpha(opacity=30);
 }
 
 footer .footer-text {

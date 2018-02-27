@@ -21,6 +21,10 @@ nav ul a {
 	text-transform: uppercase;
 }
 
+nav ul a:hover {
+	color: lightgray;
+}
+
 a.button {
 	font-size: 0.8rem;
     background-color: black;
@@ -28,6 +32,10 @@ a.button {
     display: inline-block;
     border-radius: 3px;
 	padding: 8px 30px;
+}
+
+a.button:hover {
+	background-color: silver;
 }
 
 p {
@@ -115,6 +123,11 @@ footer {
 	padding: 30px 20px;
 	clear: both;
 	text-align: center;
+}
+
+footer a:hover {
+	opacity: 0.3;
+	filter: alpha(opacity=30);
 }
 
 footer .footer-text {

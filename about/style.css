@@ -91,10 +91,24 @@ footer .footer-text {
 	text-align: center;
 }
 
+.header-text,
+.resume {
+	display: flex;
+	justify-content: space-around;
+}
+
 .header-text {
-    padding: 50px 420px 30px;
+	padding: 50px 0px 30px;
+}
+
+.header-text p {
+	width: 45%;
 }
 
 .resume {
-	padding-left: 420px;
+	margin-left: 75px;
+}
+
+.resume a {
+	margin-right: 45%;
 }

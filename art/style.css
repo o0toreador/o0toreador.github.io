@@ -89,19 +89,32 @@ h2,
 .project {
 	display: flex;
 	justify-content: space-around;
-	align-items: center;
+	align-items: flex-end;
 }
 
 .art {
 	padding-bottom: -40px;
 }
 
-.three {
-	padding: 40px 0px 60px;
+.two {
+	padding: 60px 200px;
 }
 
-.four {
-	padding-bottom: 10px;
+.three {
+	padding: 10px 295px 30px;
+}
+
+.five {
+	padding-bottom: 80px;
+}
+
+.seven {
+	padding: 0px 20px 10px;
+}
+
+.border img { 
+   padding: 1px;
+   border: 1px solid #021a40;
 }
 
 footer {

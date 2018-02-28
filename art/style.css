@@ -97,11 +97,15 @@ h2,
 }
 
 .two {
-	padding: 60px 200px;
+	padding: 20px 0px;
 }
 
 .three {
-	padding: 10px 295px 30px;
+	padding: 0px 200px;
+}
+
+.four {
+	padding: 60px 295px 50px;
 }
 
 .five {

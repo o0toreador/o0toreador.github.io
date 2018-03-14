@@ -19,10 +19,10 @@ a.email {
 
 a.button {
 	font-size: 0.8rem;
-    background-color: black;
-    color: white;
-    display: inline-block;
-    border-radius: 3px;
+	background-color: black;
+	color: white;
+	display: inline-block;
+	border-radius: 3px;
 	padding: 8px 30px;
 }
 
@@ -56,8 +56,8 @@ nav {
 
 nav h1 {
 	font-size: 2.35rem;
-    display: inline-block;
-    font-family: "Century Gothic", sans-serif;
+	display: inline-block;
+	font-family: "Century Gothic", sans-serif;
 }
 
 nav ul {
@@ -122,10 +122,10 @@ footer .footer-text {
 	color: darkgray;
 }
 
-.resume {
+/*.resume {
 	margin-left: 75px;
 }
 
 .resume a {
 	margin-right: 45%;
-}
+}*/

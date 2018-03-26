@@ -58,6 +58,10 @@ nav li {
 	text-align: center;
 }
 
+h1:hover {
+	text-shadow: 0 0 10px #EDEDED;
+}
+
 h2 {
 	font-size: 22px;
 	font-weight: normal;

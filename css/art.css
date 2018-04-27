@@ -248,7 +248,9 @@ footer .footer-text {
 
 	ul.four {
 		padding: 20px;
+		margin-top: 80px;
 		margin-left: 20%;
+		margin-bottom: 80px;	
 	}
 
 	ul.five {
@@ -263,7 +265,6 @@ footer .footer-text {
 
 	ul.seven {
 		padding: 0px 20px;
-		margin-top: -50px;
 		margin-left: 17%;
 	}
 }

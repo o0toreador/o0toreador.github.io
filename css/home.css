@@ -97,6 +97,7 @@ footer .footer-text {
 }
 
 @media only screen and (max-width: 1080px) {
+	/* for some reason neither >960 or >480 worked for my iPhone 6, so I put >1080 */
 	.desktop {
 		display: none;
 	}

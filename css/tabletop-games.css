@@ -14,7 +14,8 @@ a {
 }
 
 h4,
-ul a {
+ul a,
+.dropdown-content a {
 	font-size: 0.7rem;
 	font-weight: bold;
 	letter-spacing: 1px;
@@ -29,6 +30,10 @@ p {
 	font-size: 0.9rem;
 	letter-spacing: 1.5px;
 	line-height: 1.6;
+}
+
+.mobile {
+	display: none;
 }
 
 li {
@@ -106,7 +111,7 @@ h2,
 	padding-left: 5%;
 }
 
-.two {
+ul.two {
 	padding-bottom: 10px;
 }
 
@@ -124,4 +129,120 @@ footer a:hover {
 footer .footer-text {
 	color: dimgray;
 	padding-top: 5px;
+}
+
+@media only screen and (max-width: 800px) {
+	.desktop {
+		display: none;
+	}
+
+	.mobile {
+		display: block;
+	}
+
+	nav {
+		padding: 0px;
+	}
+
+	nav h1 {
+		font-size: 3.5rem;
+	}
+
+	h1:hover {
+		text-shadow: none;
+	}
+
+	.caret {
+		font-size: 2rem;
+		width: 100%;
+		color: white;
+		background-color: black;
+		padding: 30px 0px 15px;
+		border: none;
+		text-align: center;
+		cursor: pointer;
+	}
+
+	.dropdown-content {
+		display: none;
+		position: absolute;
+		background-color: black;
+		width: 100%;
+		z-index: 1;
+	}
+
+	.dropdown-content a {
+		font-weight: normal;
+	}
+
+	.item {
+		color: white;
+		border-style: solid;
+		border-color: white;
+		border-width: 1px 0px 0px 0px;
+		padding: 20px 0px;
+		display: block;
+		text-align: center;
+	}
+
+	.dropdown-content .five {
+		border-width: 1px 0px 1px 0px;
+	}
+
+	nav:hover .dropdown-content {
+		display: block;
+	}
+
+	img {
+		width: 100%;
+		height: 50%;
+		margin-left: 6%;
+	}
+
+	iframe {
+		width: 100%;
+		height: 80%;
+		margin-left: 7%;
+	}
+
+	.section {
+		margin: 50px 18%;
+		margin-right: 13%;
+	}
+
+	.project {
+		display: block;
+		margin: 50px 15%;
+	}
+
+	.project-text {
+		width: 100%;
+		margin-top: 30px;
+	}
+
+	ul.one {
+		margin-top: -20px;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	nav h1 {
+		font-size: 2rem;
+	}
+
+	.caret {
+		font-size: 1.5rem;
+	}
+
+	img {
+		margin-left: 5%;
+	}
+
+	iframe {
+		margin-left: 5%;
+	}
+
+	.section {
+		margin: 50px 18.5%;
+	}
 }

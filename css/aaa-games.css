@@ -118,6 +118,15 @@ ul.two {
 	padding-bottom: 10px;
 }
 
+.zero h3 {
+	font-size: 38px;
+}
+
+.zero {
+	text-align: center;
+	margin: 210px 0px 220px;
+}
+
 footer {
 	padding: 30px 20px;
 	clear: both;

@@ -118,13 +118,18 @@ ul.two {
 	padding-bottom: 10px;
 }
 
+ul.four,
+ul.five {
+	justify-content: space-around;
+}
+
 .zero h3 {
 	font-size: 32px;
 }
 
 .zero {
 	text-align: center;
-	margin: 210px 0px 220px;
+	margin: 275px 0px 285px;
 }
 
 footer {

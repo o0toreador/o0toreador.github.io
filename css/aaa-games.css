@@ -13,8 +13,12 @@ a {
 	text-decoration: none;
 }
 
+a.link {
+	text-decoration: underline;
+}
+
 h4,
-ul a,
+nav ul a,
 .dropdown-content a {
 	font-size: 0.7rem;
 	font-weight: bold;

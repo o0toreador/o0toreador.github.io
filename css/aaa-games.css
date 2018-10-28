@@ -118,12 +118,12 @@ h2,
 	padding-left: 5%;
 }
 
-ul.two {
-	padding-bottom: 10px;
+ul.three {
+	padding-top: 0px;
 }
 
-ul.four,
-ul.five {
+ul.five,
+ul.six {
 	justify-content: space-around;
 }
 

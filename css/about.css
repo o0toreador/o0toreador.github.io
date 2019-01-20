@@ -115,6 +115,10 @@ footer .footer-text {
 	text-align: center;
 }
 
+.header-img-container img {
+	border-radius: 50%;
+}
+
 .header-text,
 .resume {
 	display: flex;

@@ -122,9 +122,14 @@ ul.three {
 	padding-top: 0px;
 }
 
+ul.four,
 ul.five,
 ul.six {
 	justify-content: space-around;
+}
+
+ul.seven {
+	padding-bottom: 150px;
 }
 
 .zero h3 {
@@ -137,7 +142,7 @@ ul.six {
 }
 
 .third {
-	padding-top: 10px;
+	padding-top: 90px;
 }
 
 footer {

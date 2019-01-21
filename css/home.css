@@ -13,6 +13,10 @@ a {
 	text-decoration: none;
 }
 
+html {
+	overflow-y: scroll;
+}
+
 h4,
 ul a,
 .dropdown-content a {

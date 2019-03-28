@@ -129,11 +129,14 @@ ul.five {
 	padding-bottom: 60px;
 }
 
-ul.six {
-	padding-bottom: 70px;
+ul.seven {
+	width: 66%;
+	padding: 25px 0px;
+	margin-left: 17%;
+	align-items: center;
 }
 
-ul.eight {
+ul.nine {
 	padding: 0px 20px 10px;
 }
 

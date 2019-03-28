@@ -145,8 +145,6 @@ ul.seven {
 }
 
 ul.eight,
-ul.twelve,
-ul.thirteen,
 ul.fifteen {
 	margin-bottom: -35px;
 }
@@ -154,6 +152,11 @@ ul.fifteen {
 ul.eight img,
 ul.nine img {
 	width: 97%;
+}
+
+ul.twelve,
+ul.thirteen {
+	margin-bottom: -50px;
 }
 
 ul.twelve,
@@ -167,7 +170,7 @@ ul.fourteen {
 ul.twelve img,
 ul.thirteen img,
 ul.fourteen img {
-	width: 97%;
+	width: 99%;
 }
 
 ul.fourteen {
@@ -286,6 +289,12 @@ footer .footer-text {
 
 	ul.one {
 		margin-top: -20px;
+	}
+
+	ul.fifteen,
+	ul.sixteen {
+		display: inline-flex;
+		margin: 0px 5%;
 	}
 }
 

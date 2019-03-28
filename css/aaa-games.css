@@ -130,25 +130,53 @@ ul.three {
 
 ul.four,
 ul.five,
-ul.six {
+ul.six,
+ul.ten,
+ul.eleven {
 	justify-content: space-around;
 }
 
-ul.seven {
+ul.six {
 	padding-bottom: 140px;
 }
 
-.zero h3 {
-	font-size: 32px;
+ul.seven {
+	padding-bottom: 15px;
 }
 
-.zero {
-	text-align: center;
-	margin: 275px 0px 285px;
+ul.eight,
+ul.twelve,
+ul.thirteen,
+ul.fifteen {
+	margin-bottom: -35px;
 }
 
-.third {
-	padding-top: 90px;
+ul.eight img,
+ul.nine img {
+	width: 97%;
+}
+
+ul.twelve,
+ul.thirteen,
+ul.fourteen {
+	width: 80%;
+	padding: 0px;
+	margin-left: 10%;
+}
+
+ul.twelve img,
+ul.thirteen img,
+ul.fourteen img {
+	width: 97%;
+}
+
+ul.fourteen {
+	padding-bottom: 10px;
+}
+
+.second {
+	padding-top: 70px;
+	margin-bottom: -7px;
 }
 
 footer {

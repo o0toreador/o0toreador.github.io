@@ -136,10 +136,6 @@ ul.eleven {
 	justify-content: space-around;
 }
 
-ul.six {
-	padding-bottom: 140px;
-}
-
 ul.seven {
 	padding-bottom: 15px;
 }
@@ -181,7 +177,12 @@ ul.fifteen {
 	margin-bottom: 30px;
 }
 
-.second {
+ul.eighteen {
+	padding-bottom: 100px;
+}
+
+.second,
+.third {
 	padding-top: 70px;
 	margin-bottom: -7px;
 }

@@ -136,11 +136,6 @@ ul.raid {
 	justify-content: space-around;
 }
 
-ul.eight,
-ul.finest18 {
-	margin-bottom: -35px;
-}
-
 ul.eight img,
 ul.nine img {
 	width: 97%;
@@ -169,26 +164,31 @@ ul.fourteen {
 	padding-bottom: 10px;
 }
 
+ul.icons1 {
+	margin: 50px 474px;
+}
+
+ul.icons2 {
+	margin: 50px 328px;
+}
+
 ul.profileicons1 {
 	margin: 50px 550px;
 }
 
 ul.profileicons2,
-ul.profileicons4 {
-	margin: 50px 390px;
-}
-
-ul.icons2 {
-	margin: 50px 456px;
-}
-
 ul.profileicons3,
-ul.icons1 {
-	margin: 50px 298px;
+ul.profileicons4 {
+	margin: 50px 404px;
 }
 
-ul.eighteen {
-	padding-bottom: 100px;
+ul.eight,
+ul.finest18,
+ul.icons1,
+ul.profileicons1,
+ul.profileicons2,
+ul.profileicons3 {
+	margin-bottom: -35px;
 }
 
 footer {
@@ -294,10 +294,6 @@ footer .footer-text {
 	.project-text {
 		width: 100%;
 		margin-top: 30px;
-	}
-
-	ul.one {
-		margin-top: -20px;
 	}
 
 	ul.icons1,

@@ -112,7 +112,7 @@ footer .footer-text {
 }
 
 .header-img-container {
-	margin: -5px 0px;
+	margin: 5px 0px 10px;
 	text-align: center;
 }
 
@@ -124,6 +124,10 @@ footer .footer-text {
 .resume {
 	display: flex;
 	justify-content: space-around;
+}
+
+.resume {
+	margin: 15px 0px 100px;
 }
 
 .header-text {

@@ -98,6 +98,14 @@ h4 {
 	margin: 50px 150px;
 }
 
+.section,
+.mts21description,
+.mts20description,
+.mts19description,
+.mts18description {
+	margin: 30px 150px;
+}
+
 h2,
 .square,
 .content,
@@ -111,57 +119,53 @@ h2,
 
 .project {
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 	align-items: center;
 }
 
 .project-text {
-	width: 50%;
+	width: 70%;
 	padding-left: 5%;
 }
 
-ul.mts18description {
-	padding-bottom: 20px;
+ul.mts21description {
+	margin-top: -10px;
 }
 
-ul.four,
-ul.five,
-ul.ten,
-ul.eleven,
+ul.announcements,
+ul.event,
 ul.raid {
 	justify-content: space-around;
 }
 
-ul.eight img,
-ul.nine img {
+ul.mockups3 img,
+ul.mockups1 img,
+ul.mockups2 img {
 	width: 97%;
 }
 
-ul.twelve,
-ul.thirteen {
+ul.stadiumlogos1,
+ul.stadiumlogos2 {
 	margin-bottom: -50px;
 }
 
-ul.twelve,
-ul.thirteen,
-ul.fourteen {
+ul.stadiumlogos1,
+ul.stadiumlogos2,
+ul.stadiumlogos3 {
 	width: 80%;
 	padding: 0px;
 	margin-left: 10%;
 }
 
-ul.twelve img,
-ul.thirteen img,
-ul.fourteen img {
+ul.stadiumlogos1 img,
+ul.stadiumlogos2 img,
+ul.stadiumlogos3 img {
 	width: 99%;
-}
-
-ul.fourteen {
-	padding-bottom: 10px;
 }
 
 ul.finest18,
 ul.finest19,
+ul.allstar20,
 ul.programs {
 	width: 80%;
 }
@@ -184,12 +188,20 @@ ul.profileicons4 {
 	margin: 50px 404px;
 }
 
-ul.eight,
 ul.finest18,
 ul.icons1,
-ul.profileicons1,
+ul.icons2,
+ul.mockups1,
+ul.mockups2,
+ul.mockups3,
+ul.allstar20,
+ul.finest19,
+ul.raid,
+ul.stadiumlogos3,
 ul.profileicons2,
-ul.profileicons3 {
+ul.profileicons3,
+ul.programs,
+ul.announcements {
 	margin-bottom: -35px;
 }
 

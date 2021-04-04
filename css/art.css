@@ -90,7 +90,7 @@ h4 {
 
 .section,
 .project {
-	margin: 50px 150px;
+	margin: 30px 150px;
 }
 
 h2,
@@ -117,27 +117,28 @@ ul.two {
 	padding: 20px 0px;
 }
 
-ul.three {
-	padding: 55px 200px 0px;
+ul.fullbody {
+	padding: 25px 200px 0px;
 }
 
 ul.four {
 	padding: 60px 120px 50px;
 }
 
-ul.five {
-	padding-bottom: 60px;
-}
-
-ul.seven {
+ul.intercons,
+ul.intercont {
 	width: 66%;
 	padding: 25px 0px;
 	margin-left: 17%;
 	align-items: center;
 }
 
-ul.nine {
-	padding: 0px 20px 10px;
+ul.holidayposter {
+	padding: 40px 0px 10px;
+}
+
+ul.poster2 {
+	padding: 10px 0px;
 }
 
 .border img { 
@@ -215,7 +216,7 @@ footer .footer-text {
 		text-align: center;
 	}
 
-	.dropdown-content .six {
+	.dropdown-content .holidayposter {
 		border-width: 1px 0px 1px 0px;
 	}
 
@@ -255,7 +256,7 @@ footer .footer-text {
 		margin: 0px 0px;
 	}
 
-	ul.three {
+	ul.fullbody {
 		width: 50%;
 		padding: 0px;
 		margin-left: 25%;
@@ -274,11 +275,12 @@ footer .footer-text {
 		margin-left: 15%;
 	}
 
-	ul.six {
+	ul.holidayposter {
 		margin-left: 16%;
 	}
 
-	ul.seven {
+	ul.intercons,
+	ul.intercont {
 		padding: 0px 20px;
 		margin-left: 17%;
 	}

@@ -93,7 +93,6 @@ h4 {
 	letter-spacing: 1px;
 }
 
-.section,
 .project {
 	margin: 50px 150px;
 }
@@ -104,6 +103,13 @@ h4 {
 .mts19description,
 .mts18description {
 	margin: 30px 150px;
+}
+
+.mts18examples,
+.mts19examples,
+.mts20examples {
+	margin-top: 40px;
+	margin-bottom: -20px;
 }
 
 h2,

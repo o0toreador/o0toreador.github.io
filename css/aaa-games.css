@@ -105,13 +105,6 @@ h4 {
 	margin: 30px 150px;
 }
 
-.mts18examples,
-.mts19examples,
-.mts20examples {
-	margin-top: 40px;
-	margin-bottom: -20px;
-}
-
 h2,
 .square,
 .content,
@@ -134,19 +127,30 @@ h2,
 	padding-left: 5%;
 }
 
+.mts18,
+.mts19,
+.mts20 {
+	padding-top: 150px;
+}
+
 ul.mts21description {
 	margin-top: -10px;
 }
 
 ul.announcements,
 ul.event,
-ul.raid {
+ul.loading-animation,
+ul.perkicons {
 	justify-content: space-around;
 }
 
-ul.mockups3 img,
-ul.mockups1 img,
-ul.mockups2 img {
+ul.mockups20 img,
+ul.mockups19-1 img,
+ul.mockups19-2 img,
+ul.mockups21-1 img,
+ul.mockups21-2 img,
+ul.mockups21-3 img,
+ul.gameplaydifficultyicons img {
 	width: 97%;
 }
 
@@ -172,6 +176,9 @@ ul.stadiumlogos3 img {
 ul.finest18,
 ul.finest19,
 ul.allstar20,
+ul.allstar21,
+ul.diamondclub21,
+ul.milestone,
 ul.programs {
 	width: 80%;
 }
@@ -190,22 +197,29 @@ ul.profileicons1 {
 
 ul.profileicons2,
 ul.profileicons3,
-ul.profileicons4 {
+ul.profileicons4,
+ul.gamemodeicons1,
+ul.gamemodeicons2 {
 	margin: 50px 404px;
 }
 
 ul.finest18,
 ul.icons1,
 ul.icons2,
-ul.mockups1,
-ul.mockups2,
-ul.mockups3,
+ul.mockups19-1,
+ul.mockups19-2,
+ul.mockups20,
+ul.mockups21-1,
+ul.mockups21-2,
+ul.gameplaydifficultyicons,
 ul.allstar20,
 ul.finest19,
-ul.raid,
+ul.milestone,
+ul.diamondclub21,
 ul.stadiumlogos3,
 ul.profileicons2,
 ul.profileicons3,
+ul.gamemodeicons1,
 ul.programs,
 ul.announcements {
 	margin-bottom: -35px;
@@ -321,7 +335,9 @@ footer .footer-text {
 	ul.profileicons1,
 	ul.profileicons2,
 	ul.profileicons3,
-	ul.profileicons4 {
+	ul.profileicons4,
+	ul.gamemodeicons1,
+	ul.gamemodeicons2 {
 		display: inline-flex;
 		margin: 0px 5%;
 	}

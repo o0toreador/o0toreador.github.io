@@ -99,14 +99,27 @@ h2,
 	display: inline-block;
 }
 
+.art {
+	padding-bottom: -40px;
+}
+
 .project {
 	display: flex;
 	justify-content: space-around;
-	align-items: flex-end;
+	align-items: center;
 }
 
-.art {
-	padding-bottom: -40px;
+ul.shardsnameplate {
+	padding-bottom: 30px;
+}
+
+ul.baseballicons,
+ul.pixelicons {
+	margin: 10px 404px;
+}
+
+ul.legendicons {
+	margin: 50px 300px;
 }
 
 ul.one {

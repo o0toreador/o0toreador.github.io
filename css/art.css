@@ -122,6 +122,10 @@ ul.legendicons {
 	margin: 50px 300px;
 }
 
+ul.intercont {
+	margin: -20px 0px -30px;
+}
+
 ul.one {
 	justify-content: space-between;
 }

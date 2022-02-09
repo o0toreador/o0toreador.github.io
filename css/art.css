@@ -154,8 +154,8 @@ ul.holidayposter {
 	padding: 40px 0px 10px;
 }
 
-ul.poster2 {
-	padding: 10px 0px;
+ul.poster {
+	padding: 10px 0px 20px;
 }
 
 .border img { 
@@ -263,6 +263,17 @@ footer .footer-text {
 		margin-top: 30px;
 	}
 
+	ul.baseballicons,
+	ul.pixelicons,
+	ul.legendicons {
+		display: inline-flex;
+		margin: 0px 5%;
+	}
+
+	ul.intercont {
+		margin: 50px 0px;
+	}
+
 	ul.one {
 		margin-top: -20px;
 	}
@@ -274,9 +285,9 @@ footer .footer-text {
 	}
 
 	ul.fullbody {
-		width: 50%;
+		width: 30%;
 		padding: 0px;
-		margin-left: 25%;
+		margin-left: 35%;
 	}
 
 	ul.four {

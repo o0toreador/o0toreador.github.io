@@ -208,14 +208,12 @@ footer .footer-text {
 	}
 
 	.project img {
-		width: 100%;
-		height: 50%;
 		margin-left: 6%;
 	}
 
 	iframe {
-		width: 100%;
-		height: 80%;
+		width: 200%;
+		height: 350px;
 		margin-left: 7%;
 	}
 

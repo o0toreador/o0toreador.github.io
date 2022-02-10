@@ -205,9 +205,9 @@ footer .footer-text {
 	}
 
 	iframe {
-		width: 130%;
-		height: 90%;
-		margin-left: 7%;
+		width: 200%;
+		height: 350px;
+		margin: 7% 0;
 	}
 
 	.section {

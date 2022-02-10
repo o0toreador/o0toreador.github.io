@@ -312,6 +312,10 @@ footer .footer-text {
 		padding: 0px 20px;
 		margin-left: 17%;
 	}
+
+	li.border {
+		padding-top: 70px;
+	}
 }
 
 @media only screen and (max-width: 480px) {

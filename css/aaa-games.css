@@ -129,7 +129,8 @@ h2,
 
 .mts18,
 .mts19,
-.mts20 {
+.mts20,
+.mts21 {
 	padding-top: 50px;
 }
 
@@ -150,6 +151,10 @@ ul.mockups19-2 img,
 ul.mockups21-1 img,
 ul.mockups21-2 img,
 ul.mockups21-3 img,
+ul.screenshots22-1 img,
+ul.screenshots22-2 img,
+ul.screenshots22-3 img,
+ul.screenshots22-4 img,
 ul.gameplaydifficultyicons img {
 	width: 97%;
 }
@@ -200,6 +205,10 @@ ul.mockups19-2,
 ul.mockups20,
 ul.mockups21-1,
 ul.mockups21-2,
+ul.screenshots22-1,
+ul.screenshots22-2,
+ul.screenshots22-3,
+ul.screenshots22-4,
 ul.gameplaydifficultyicons,
 ul.allstar20,
 ul.finest19,

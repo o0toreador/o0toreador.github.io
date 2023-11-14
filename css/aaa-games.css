@@ -98,6 +98,9 @@ h4 {
 }
 
 .section,
+.nwdescription,
+.mts23description,
+.mts22description,
 .mts21description,
 .mts20description,
 .mts19description,
@@ -130,7 +133,9 @@ h2,
 .mts18,
 .mts19,
 .mts20,
-.mts21 {
+.mts21,
+.mts22,
+.mts23 {
 	padding-top: 50px;
 }
 
@@ -208,7 +213,6 @@ ul.mockups21-2,
 ul.screenshots22-1,
 ul.screenshots22-2,
 ul.screenshots22-3,
-ul.screenshots22-4,
 ul.gameplaydifficultyicons,
 ul.allstar20,
 ul.finest19,

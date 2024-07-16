@@ -87,7 +87,7 @@ h3 {
 
 h4 {
 	color: #A6ACAF;
-	font-size: 11.2px;
+	font-size: 10.3px;
 	margin-top: 7px;
 	margin-left: 1px;
 	letter-spacing: 1px;
@@ -146,7 +146,8 @@ ul.mts21description {
 ul.announcements,
 ul.event,
 ul.loading-animation,
-ul.perkicons {
+ul.perkicons,
+ul.virtualcursor-nw {
 	justify-content: space-around;
 }
 
@@ -156,10 +157,15 @@ ul.mockups19-2 img,
 ul.mockups21-1 img,
 ul.mockups21-2 img,
 ul.mockups21-3 img,
+ul.screenshots-nw img,
 ul.screenshots22-1 img,
 ul.screenshots22-2 img,
 ul.screenshots22-3 img,
 ul.screenshots22-4 img,
+ul.screenshots23-1 img,
+ul.screenshots23-2 img,
+ul.screenshots23-3 img,
+ul.screenshots23-4 img,
 ul.gameplaydifficultyicons img {
 	width: 97%;
 }
@@ -210,9 +216,13 @@ ul.mockups19-2,
 ul.mockups20,
 ul.mockups21-1,
 ul.mockups21-2,
+ul.screenshots-nw,
 ul.screenshots22-1,
 ul.screenshots22-2,
 ul.screenshots22-3,
+ul.screenshots23-1,
+ul.screenshots23-2,
+ul.screenshots23-3,
 ul.gameplaydifficultyicons,
 ul.allstar20,
 ul.finest19,

@@ -146,8 +146,7 @@ ul.mts21description {
 ul.announcements,
 ul.event,
 ul.loading-animation,
-ul.perkicons,
-ul.virtualcursor-nw {
+ul.perkicons {
 	justify-content: space-around;
 }
 
@@ -157,7 +156,10 @@ ul.mockups19-2 img,
 ul.mockups21-1 img,
 ul.mockups21-2 img,
 ul.mockups21-3 img,
-ul.screenshots-nw img,
+ul.screenshotsnw-1 img,
+ul.screenshotsnw-2 img,
+ul.screenshotsnw-3 img,
+ul.screenshotsnw-4 img,
 ul.screenshots22-1 img,
 ul.screenshots22-2 img,
 ul.screenshots22-3 img,
@@ -216,7 +218,9 @@ ul.mockups19-2,
 ul.mockups20,
 ul.mockups21-1,
 ul.mockups21-2,
-ul.screenshots-nw,
+ul.screenshotsnw-1,
+ul.screenshotsnw-2,
+ul.screenshotsnw-3,
 ul.screenshots22-1,
 ul.screenshots22-2,
 ul.screenshots22-3,
